@@ -1,0 +1,7 @@
+*.kdev4
+*.kate-swp
+*.pyc
+*kdev4/
+.idea/
+**/.idea/
+**/cmake-build-debug/
